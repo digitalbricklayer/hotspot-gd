@@ -1,0 +1,15 @@
+<gadget minimumGoogleDesktopVersion="4.2006.509.0">
+  <about>
+    <id>935AABE7-6F4C-4de6-C68C-E5CE0063F88F</id>
+    <version>1.0.0.0</version>
+    <author>OPENXTRA Limited</author>
+    <authorEmail>jhughes@openxtra.co.uk</authorEmail>
+    <authorWebsite>http://www.openxtra.co.uk/freestuff/plugins/google-desktop/</authorWebsite>
+    <copyright>Copyright (c) 2006 OPENXTRA Ltd.</copyright>
+    <description>&strDescription;</description>
+    <name>&strTitle;</name>
+    <aboutText>&strAboutText;</aboutText>
+    <smallIcon>plugin_small.gif</smallIcon>
+    <icon>plugin_large.gif</icon>
+  </about>
+</gadget>
